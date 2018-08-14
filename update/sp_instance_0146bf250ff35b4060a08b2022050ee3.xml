@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>0</order>
+        <roles/>
+        <short_description/>
+        <size>lg</size>
+        <sp_column display_value="1">5446bf250ff35b4060a08b2022050eb9</sp_column>
+        <sp_widget display_value="HTG Homepage Search">ee71dd9213451f44a13d51522244b0dd</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>STS379</sys_created_by>
+        <sys_created_on>2018-08-08 18:07:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0146bf250ff35b4060a08b2022050ee3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Welcome {{data.user}},</sys_name>
+        <sys_package display_value="Onboarding" source="x_haig_onboarding">fa5c81000f73d34060a08b2022050edb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Onboarding">fa5c81000f73d34060a08b2022050edb</sys_scope>
+        <sys_update_name>sp_instance_0146bf250ff35b4060a08b2022050ee3</sys_update_name>
+        <sys_updated_by>STS379</sys_updated_by>
+        <sys_updated_on>2018-08-08 18:23:53</sys_updated_on>
+        <title>Welcome {{data.user}},</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"typeahead_search": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+</record_update>

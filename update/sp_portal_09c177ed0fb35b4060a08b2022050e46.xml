@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables>$brand-primary: #003150;&#13;
+$body-bg: #fff;&#13;
+$state-success-text: #5b8f22;&#13;
+$sp-homepage-bg: #fff;&#13;
+$sp-navbar-divider-color: #7ca940;&#13;
+$text-color: #333333;&#13;
+$sp-logo-margin-y: .5rem;&#13;
+$navbar-inverse-link-hover-color: #ffffff;&#13;
+$panel-bg: #fff;&#13;
+$brand-success: #7ca940;&#13;
+$navbar-inverse-bg: #003150;&#13;
+$brand-warning: #df7a00;&#13;
+$brand-danger: #d9534f;&#13;
+$sp-tagline-color: #ffffff;&#13;
+$navbar-inverse-link-color: #ffffff;&#13;
+$navbar-inverse-link-hover-bg: $brand-success !default;&#13;
+$brand-info: #569bbe;&#13;
+$link-color: #005580;&#13;
+$sp-logo-margin-x: 5px;&#13;
+$btn-default-bg: #fff;&#13;
+$text-muted: #666666;</css_variables>
+        <default>false</default>
+        <homepage display_value="onboarding_index">7c16ffa10ff35b4060a08b2022050e24</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page display_value="landing">36c61807cb31120000f8d856634c9ca9</login_page>
+        <logo>d6d2ffe50fb35b4060a08b2022050e44.iix?t=m</logo>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>STS379</sys_created_by>
+        <sys_created_on>2018-08-08 17:52:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>09c177ed0fb35b4060a08b2022050e46</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Onboarding</sys_name>
+        <sys_package display_value="Onboarding" source="x_haig_onboarding">fa5c81000f73d34060a08b2022050edb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Onboarding">fa5c81000f73d34060a08b2022050edb</sys_scope>
+        <sys_update_name>sp_portal_09c177ed0fb35b4060a08b2022050e46</sys_update_name>
+        <sys_updated_by>STS379</sys_updated_by>
+        <sys_updated_on>2018-08-08 18:08:53</sys_updated_on>
+        <theme display_value="Onboarding">577337210ff35b4060a08b2022050e74</theme>
+        <title>Onboarding</title>
+        <url_suffix>onb</url_suffix>
+    </sp_portal>
+</record_update>

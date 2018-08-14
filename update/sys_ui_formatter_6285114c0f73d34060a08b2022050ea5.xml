@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>process_flow.xml</formatter>
+        <name>Process Flow</name>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>STS379</sys_created_by>
+        <sys_created_on>2018-08-03 14:34:11</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6285114c0f73d34060a08b2022050ea5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Process Flow</sys_name>
+        <sys_package display_value="Onboarding" source="x_haig_onboarding">fa5c81000f73d34060a08b2022050edb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Onboarding">fa5c81000f73d34060a08b2022050edb</sys_scope>
+        <sys_update_name>sys_ui_formatter_6285114c0f73d34060a08b2022050ea5</sys_update_name>
+        <sys_updated_by>STS379</sys_updated_by>
+        <sys_updated_on>2018-08-03 14:34:11</sys_updated_on>
+        <table>x_haig_onboarding_table</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+</record_update>

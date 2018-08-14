@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color>#e5e5e5</background_color>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>homepage-quicklinks</class_name>
+        <container_class_name/>
+        <name>Onboarding index - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="onboarding_index">7c16ffa10ff35b4060a08b2022050e24</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>STS379</sys_created_by>
+        <sys_created_on>2018-08-08 18:23:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c41a77290ff35b4060a08b2022050e0a</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Onboarding index - Container 2</sys_name>
+        <sys_package display_value="Onboarding" source="x_haig_onboarding">fa5c81000f73d34060a08b2022050edb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Onboarding">fa5c81000f73d34060a08b2022050edb</sys_scope>
+        <sys_update_name>sp_container_c41a77290ff35b4060a08b2022050e0a</sys_update_name>
+        <sys_updated_by>STS379</sys_updated_by>
+        <sys_updated_on>2018-08-08 19:42:05</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>
