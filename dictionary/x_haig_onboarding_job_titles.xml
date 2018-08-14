@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Job Titles" max_length="40" name="x_haig_onboarding_job_titles" type="collection">
+        <element attributes="format=none" label="Activity Code" max_length="15" name="job_activity_code" type="integer"/>
+        <element attributes="format=none" label="Cost Center" max_length="15" name="job_cost_center" type="integer"/>
+        <element label="Department" max_length="32" name="job_department" reference="u_business_line" type="reference"/>
+        <element display="true" label="Title" max_length="250" name="job_title" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="job_department"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

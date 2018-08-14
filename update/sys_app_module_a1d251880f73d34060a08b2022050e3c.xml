@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Onboarding">3a5cc5800f73d34060a08b2022050e13</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Job Titles</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_haig_onboarding_job_titles</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_haig_onboarding.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>STS379</sys_created_by>
+        <sys_created_on>2018-08-03 14:22:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>a1d251880f73d34060a08b2022050e3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job Titles</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Onboarding" source="x_haig_onboarding">fa5c81000f73d34060a08b2022050edb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Onboarding">fa5c81000f73d34060a08b2022050edb</sys_scope>
+        <sys_update_name>sys_app_module_a1d251880f73d34060a08b2022050e3c</sys_update_name>
+        <sys_updated_by>STS379</sys_updated_by>
+        <sys_updated_on>2018-08-03 14:22:22</sys_updated_on>
+        <timeline_page/>
+        <title>Job Titles</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

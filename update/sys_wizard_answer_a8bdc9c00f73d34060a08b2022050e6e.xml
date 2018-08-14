@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Onboarding</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Onboarding</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Create a new task" name="Create a new task">48ecf8bf0a0110e9006e17d69550477e</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>STS379</sys_created_by>
+        <sys_created_on>2018-08-03 13:59:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a8bdc9c00f73d34060a08b2022050e6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Onboarding</sys_name>
+        <sys_package display_value="Onboarding" source="x_haig_onboarding">fa5c81000f73d34060a08b2022050edb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Onboarding">fa5c81000f73d34060a08b2022050edb</sys_scope>
+        <sys_update_name>sys_wizard_answer_a8bdc9c00f73d34060a08b2022050e6e</sys_update_name>
+        <sys_updated_by>STS379</sys_updated_by>
+        <sys_updated_on>2018-08-03 13:59:55</sys_updated_on>
+        <table/>
+        <target_url>x_haig_onboarding_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

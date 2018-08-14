@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="auth_approver" label="Authorized Approver" language="en" table="x_haig_onboarding_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>auth_approver</element>
+            <help/>
+            <hint/>
+            <label>Authorized Approver</label>
+            <language>en</language>
+            <name>x_haig_onboarding_table</name>
+            <plural>Authorized Approvers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>STS379</sys_created_by>
+            <sys_created_on>2018-08-14 14:24:34</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>85dcf12f0ff7930060a08b2022050ef0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Authorized Approver</sys_name>
+            <sys_package display_value="Onboarding" source="x_haig_onboarding">fa5c81000f73d34060a08b2022050edb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Onboarding">fa5c81000f73d34060a08b2022050edb</sys_scope>
+            <sys_update_name>sys_documentation_x_haig_onboarding_table_auth_approver_en</sys_update_name>
+            <sys_updated_by>STS379</sys_updated_by>
+            <sys_updated_on>2018-08-14 14:24:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

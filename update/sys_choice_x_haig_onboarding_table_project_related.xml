@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="project_related" table="x_haig_onboarding_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_related</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_haig_onboarding_table</name>
+            <sequence/>
+            <sys_created_by>STS379</sys_created_by>
+            <sys_created_on>2018-08-14 14:45:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2c8142e30f3b930060a08b2022050ef0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>STS379</sys_updated_by>
+            <sys_updated_on>2018-08-14 14:45:08</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_related</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_haig_onboarding_table</name>
+            <sequence/>
+            <sys_created_by>STS379</sys_created_by>
+            <sys_created_on>2018-08-14 14:45:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d38142e30f3b930060a08b2022050ef4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>STS379</sys_updated_by>
+            <sys_updated_on>2018-08-14 14:45:16</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>project_related</element>
+            <name>x_haig_onboarding_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>STS379</sys_created_by>
+            <sys_created_on>2018-08-14 14:45:08</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>92814ea30f3b930060a08b2022050e35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>project_related</sys_name>
+            <sys_package display_value="Onboarding" source="x_haig_onboarding">fa5c81000f73d34060a08b2022050edb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Onboarding">fa5c81000f73d34060a08b2022050edb</sys_scope>
+            <sys_update_name>sys_choice_x_haig_onboarding_table_project_related</sys_update_name>
+            <sys_updated_by>STS379</sys_updated_by>
+            <sys_updated_on>2018-08-14 14:45:08</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

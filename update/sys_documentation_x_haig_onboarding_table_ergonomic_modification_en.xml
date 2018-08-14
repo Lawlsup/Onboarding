@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ergonomic_modification" label="Ergonomic Modification" language="en" table="x_haig_onboarding_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ergonomic_modification</element>
+            <help/>
+            <hint/>
+            <label>Ergonomic Modification</label>
+            <language>en</language>
+            <name>x_haig_onboarding_table</name>
+            <plural>Ergonomic Modifications</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>STS379</sys_created_by>
+            <sys_created_on>2018-08-14 14:32:38</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>5baeb9af0ff7930060a08b2022050eab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ergonomic Modification</sys_name>
+            <sys_package display_value="Onboarding" source="x_haig_onboarding">fa5c81000f73d34060a08b2022050edb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Onboarding">fa5c81000f73d34060a08b2022050edb</sys_scope>
+            <sys_update_name>sys_documentation_x_haig_onboarding_table_ergonomic_modification_en</sys_update_name>
+            <sys_updated_by>STS379</sys_updated_by>
+            <sys_updated_on>2018-08-14 14:32:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

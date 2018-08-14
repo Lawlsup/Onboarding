@@ -6,18 +6,18 @@
         <mandatory>ignore</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>STS379</sys_created_by>
-        <sys_created_on>2018-08-08 20:02:05</sys_created_on>
+        <sys_created_on>2018-08-14 14:33:57</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>fb709cbd0f375b4060a08b2022050e85</sys_id>
+        <sys_id>c7eeb1ef0ff7930060a08b2022050ea0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>full_name</sys_name>
         <sys_package display_value="Onboarding" source="x_haig_onboarding">fa5c81000f73d34060a08b2022050edb</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Onboarding">fa5c81000f73d34060a08b2022050edb</sys_scope>
-        <sys_update_name>sys_ui_policy_action_fb709cbd0f375b4060a08b2022050e85</sys_update_name>
+        <sys_update_name>sys_ui_policy_action_c7eeb1ef0ff7930060a08b2022050ea0</sys_update_name>
         <sys_updated_by>STS379</sys_updated_by>
-        <sys_updated_on>2018-08-08 20:02:05</sys_updated_on>
+        <sys_updated_on>2018-08-14 14:33:57</sys_updated_on>
         <table>x_haig_onboarding_table</table>
         <ui_policy display_value="Full Name Hide if Empty">08601cbd0f375b4060a08b2022050e3f</ui_policy>
         <visible>false</visible>
